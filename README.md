@@ -1,16 +1,24 @@
-### Hi there 👋
+###  👋 hi, i'm Amirhossein khanmohammadi , a passionate self-taught  front-end web developer and  from iran . my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I am programming on the front side and I am very interested in React. Here I put my code samples.
+My skills are HTML, CSS, Modern JavaScript, Bootstrap, Git, React, and Typescript, and I enjoy working with other developers and team work.
 
-<!--
-**ami87878/ami87878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 If you want to have any work or communication with me, contact my email:  amirhossein.kh.job@gmail.com 
 
-Here are some ideas to get you started:
+📱 This is my LinkedIn, you can contact me     https://www.linkedin.com/in/amirhossein-khanmohammadi/   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🎯🎯 I’m currently working on front-end 
+- 💪💪 I am learning React every day to keep myself updated
+
+- 💎💎I am looking for the right company to be employed
+- 💬 Ask me about web applications and I will guide you to the best of my knowledge
+- 🥊🥊 I am extremely hardworking and never give up
+
+
+
+
+
+![code](https://github.com/ami87878/ami87878/assets/111053228/9e25a651-0efa-49d7-9202-04a39c327df7)
+
+
+
+
