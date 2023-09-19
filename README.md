@@ -7,7 +7,7 @@ My skills are HTML, CSS,SCSS, Modern JavaScript, Bootstrap,Bootstrap-Vue, Git, R
 
 
 - 🎯🎯 I’m currently working on front-end 
-- 💪💪 I am learning React every day to keep myself updated
+- 💪💪 I am learning React every day to keep myself updated and work with Vue js
 
 - 💎💎I am looking for the right company to be employed
 - 💬 Ask me about web applications and I will guide you to the best of my knowledge
