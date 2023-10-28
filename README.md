@@ -1,4 +1,4 @@
-###  👋 hi, i'm Amirhossein khanmohammadi , a passionate self-taught  front-end web developer and  from iran . my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I am programming on the front side and I am very interested in React. Here I put my code samples.
+###  👋 hi, i'm Amirhossein khanmohammadi , a passionate self-taught  front-end web developer and  from iran . my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I am programming on the front side and I am very interested in React and Vue js. Here I put my code samples.
 My skills are HTML, CSS,SCSS, Modern JavaScript, Bootstrap,Bootstrap-Vue, Git, React,Vuejs and Typescript, and I enjoy working with other developers and team work.
 
 💼 If you want to have any work or communication with me, contact my email:  amirhossein.kh.job@gmail.com 
